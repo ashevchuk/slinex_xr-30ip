@@ -1,7 +1,6 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 # slinex_ctrl.pl — Slinex intercom control via OWSP protocol
-# Reverse-engineered from APK: com.gooclient.mobileeyedoor.slinex
 #
 # Usage:
 #   perl slinex_ctrl.pl [options] <command>
