@@ -63,7 +63,7 @@ sudo pacman -S mpv alsa-utils
 ## Installation
 
 ```bash
-git clone https://github.com/ashevchuk/slinex_xr-301p.git
+git clone https://github.com/ashevchuk/slinex_xr-30ip.git
 cd slinex_xr-301p
 chmod +x slinex_ctrl.pl
 ```
