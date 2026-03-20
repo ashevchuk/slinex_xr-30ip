@@ -182,7 +182,7 @@ perl slinex_ctrl.pl -h ABCDEF1234567890 notify
 Run a custom command (e.g., send a notification) on each ring:
 
 ```bash
-perl slinex_ctrl.pl -e 'notify-send "Doorbell" "Someone is at the door"' notify
+perl slinex_ctrl.pl -h ABCDEF1234567890 -e 'notify-send "Doorbell" "Someone is at the door"' notify
 ```
 
 Combine UID filter with a command:
